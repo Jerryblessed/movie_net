@@ -1,5 +1,20 @@
 workflows:
 
+    android-workflow-id:
+
+        name: Android Sample Workflow
+
+        # .......    
+
+        # .......
+
+        # .......  
+
+    ios-workflow-id:
+
+        name: iOS Sample Workflow
+
+        # ......
     sample-workflow:
 
         name: Codemagic Sample Workflow
